@@ -10,6 +10,18 @@ teste
 
 ---
 
+<img
+  src="https://github.com/mayannaoliveira/teste-apagar/blob/master/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
+---
+
 ![Branches](./badges/coverage-branches.svg)
 ![Functions](./badges/coverage-functions.svg)
 ![Lines](./badges/coverage-lines.svg)
