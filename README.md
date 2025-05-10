@@ -1,9 +1,8 @@
-# teste-apagar
+Teste do Wakatime como workflow.
 
 <!--START_SECTION:stack--> 
 <!--END_SECTION:stack-->
 
-teste
 
 <!-- [START BADGES] -->
 <!-- [END BADGES] -->
